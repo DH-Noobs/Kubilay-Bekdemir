@@ -18,6 +18,8 @@
 
 [Calculator App](https://github.com/kubilaybee/Calculator-App/blob/master/README.md) <br/><br/>
 
+[SimpleCalculator App](https://github.com/kubilaybee/SimpleCalculator-App/blob/master/README.md) <br/><br/>
+
 [Fragment App](https://github.com/kubilaybee/Fragment-App/blob/master/README.md) <br/></br>
 
 [Birthday Card App](https://github.com/kubilaybee/Birthday-Card-App/blob/master/README.md)<br/><br/>
